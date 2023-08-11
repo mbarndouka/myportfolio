@@ -46,7 +46,13 @@
 
 .active__link,
 .nav__link:hover{
-    color: var(--color-title-dark);
+    color: var(--title-color-dark);
+}
+
+/* change header backgroung */
+
+.scroll-header{
+  box-shadow: 0 -1px 4px rgb(0, 0, 0,0.15);
 }
 
 /* medium devices */
