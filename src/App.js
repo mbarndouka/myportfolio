@@ -5,7 +5,11 @@ import Skills from './components/Skills/skills';
 import Services from './components/Services/Services';
 import Qualification from './components/qualification/Qualification';
 import Testimonials from './components/testimonials/Testimonials';
+import Contact from './components/contact/Contact';
+import Footer from './components/footer/Footer';
+
 import './App.css';
+
 
 function App() {
   return (
@@ -18,7 +22,9 @@ function App() {
         <Skills />
         <Services />
         <Qualification />
-        <Testimonials/>
+        <Testimonials />
+        <Contact />
+        <Footer/>
       </main>
     </>
   );
