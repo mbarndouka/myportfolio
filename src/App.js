@@ -9,6 +9,7 @@ import Contact from './components/contact/Contact';
 import Footer from './components/footer/Footer';
 
 import './App.css';
+import Scrollup from './components/scrollup/Scrollup';
 
 
 function App() {
@@ -24,8 +25,10 @@ function App() {
         <Qualification />
         <Testimonials />
         <Contact />
-        <Footer/>
       </main>
+
+      <Footer />
+      <Scrollup/>
     </>
   );
 }
