@@ -53,8 +53,8 @@ const Data = () => {
                     fill="#EBA352"
                   ></path>
                 </svg> */}
-        </h1>
-        <h3 className="home_subtitle">Web developer & Data scientist</h3>
+        </h1> 
+        <h3 className="home_subtitle">Frontend developer & Data scientist</h3>
         <p className="home__description">
             I'm a web developer base in Kigali, and i'm very
             passionate and dedicate to my work.
