@@ -1,4 +1,5 @@
 import React from 'react';
+import Scroll from "../../assets/scroll.svg";
 
 const ScrollDown = () => {
   return (
@@ -38,7 +39,8 @@ const ScrollDown = () => {
                         strokeWith:"20px",
                     }}
                 ></path>
-            </svg>
+              </svg>
+              <img src={Scroll} alt="" />
             <span className='home__scroll-name'>Scroll Down</span>
             <i className="uil uil-arrow-down home__scroll-arrow"></i>
         </a>
