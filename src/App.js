@@ -10,6 +10,7 @@ import Footer from './components/footer/Footer';
 
 import './App.css';
 import Scrollup from './components/scrollup/Scrollup';
+import Portfolio from './components/portfolio/Portfolio';
 
 
 function App() {
@@ -23,6 +24,7 @@ function App() {
         <Skills />
         {/* <Services /> */}
         <Qualification />
+        <Portfolio/>
         {/* <Testimonials /> */}
         <Contact />
       </main>
