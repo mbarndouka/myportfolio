@@ -18,8 +18,7 @@ const About = () => {
                 <Info/>
 
                 <p className="about__description">
-                    Frontend developer junior, I create web pages with UI / UX 
-                    user interface, I have a year experience and some projects carried out
+                    Meet Mbarndouka Oumarou Marius, a dedicated learner pursuing Data Science at ALX and Software Engineering at the Adventist University of Central Africa. With a coding background and a degree from the University Institute of Technology in Cameroon, Mbarndouka aims to tackle agricultural challenges in Africa using his skills. Beyond coding, he enjoys reading, podcasts, and addressing real-world issues. Experienced in front-end development, he seeks roles in internships, jobs, or entrepreneurship to expand his impact.
                 </p>
 
                 <a download="" href={CV} className="button button--flex">
