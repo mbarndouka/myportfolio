@@ -7,10 +7,12 @@ import Qualification from './components/qualification/Qualification';
 // import Testimonials from './components/testimonials/Testimonials';
 import Contact from './components/contact/Contact';
 import Footer from './components/footer/Footer';
-
-import './App.css';
 import Scrollup from './components/scrollup/Scrollup';
 import Portfolio from './components/portfolio/Portfolio';
+
+
+import './App.css';
+import Pitch from './components/ElevatorPitch/Pitch';
 
 
 function App() {
@@ -22,6 +24,7 @@ function App() {
         <Home />
         <About />
         <Skills />
+        <Pitch/>
         {/* <Services /> */}
         <Qualification />
         <Portfolio/>
