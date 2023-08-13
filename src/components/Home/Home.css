@@ -69,6 +69,12 @@
     height: 300px;
     animation: profile__animate 8s ease-in-out infinite;
 }
+.scroll-content{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+}
 
 @keyframes profile__animate {
     0%{
@@ -98,7 +104,7 @@
     }
 
     30%{
-        transform: translateY(3.75rem);
+        transform: translateY(0.5rem);
     }
 }
 
