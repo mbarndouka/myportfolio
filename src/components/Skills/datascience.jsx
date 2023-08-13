@@ -1,9 +1,9 @@
 import React from 'react';
 
-const Frontend = () => {
+const Datascience = () => {
   return (
     <div className="skills__content">
-        <h3 className="skills__title">Frontend developer</h3>
+        <h3 className="skills__title">Data Science</h3>
 
         <div className="skills__box">
             <div className="skills__group">
@@ -11,8 +11,8 @@ const Frontend = () => {
                     <i className="bx bx-badge-check"></i>
 
                     <div>
-                        <h3 className="skills__name">HTML</h3>
-                        <span className="skills__level">Basic</span>
+                        <h3 className="skills__name">Power BI</h3>
+                        <span className="skills__level">Beginner</span>
                     </div>
                 </div>
 
@@ -20,8 +20,8 @@ const Frontend = () => {
                     <i className="bx bx-badge-check"></i>
 
                     <div>
-                        <h3 className="skills__name">CSS</h3>
-                        <span className="skills__level">Basic</span>
+                        <h3 className="skills__name">SQL</h3>
+                        <span className="skills__level">intermediate</span>
                     </div>
                 </div>
 
@@ -29,8 +29,8 @@ const Frontend = () => {
                     <i className="bx bx-badge-check"></i>
 
                     <div>
-                        <h3 className="skills__name">Javascript</h3>
-                        <span className="skills__level">Intermediate</span>
+                        <h3 className="skills__name">Python</h3>
+                        <span className="skills__level">Basic</span>
                     </div>
                 </div>
             </div>
@@ -40,8 +40,8 @@ const Frontend = () => {
                     <i className="bx bx-badge-check"></i>
 
                     <div>
-                        <h3 className="skills__name">NextJs</h3>
-                        <span className="skills__level">Intermediate</span>
+                        <h3 className="skills__name">Machine Learning</h3>
+                        <span className="skills__level">Beginner</span>
                     </div>
                 </div>
 
@@ -49,8 +49,8 @@ const Frontend = () => {
                     <i className="bx bx-badge-check"></i>
 
                     <div>
-                        <h3 className="skills__name">Git</h3>
-                        <span className="skills__level">Intermediate</span>
+                        <h3 className="skills__name">DVS</h3>
+                        <span className="skills__level">Beginner</span>
                     </div>
                 </div>
 
@@ -58,8 +58,8 @@ const Frontend = () => {
                     <i className="bx bx-badge-check"></i>
 
                     <div>
-                        <h3 className="skills__name">React</h3>
-                        <span className="skills__level">Intermediate</span>
+                        <h3 className="skills__name">AWS</h3>
+                        <span className="skills__level">Beginner</span>
                     </div>
                 </div>
             </div>
@@ -68,4 +68,4 @@ const Frontend = () => {
   )
 }
 
-export default Frontend
+export default Datascience;

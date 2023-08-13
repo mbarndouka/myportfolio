@@ -3,6 +3,7 @@ import Frontend from './Frontend';
 import Backend from './Backend';
 
 import "./skills.css";
+import Datascience from './datascience';
 
 const skills = () => {
   return (
@@ -14,6 +15,7 @@ const skills = () => {
             <Frontend/>
 
             <Backend />
+            <Datascience/>
         </div>
     </section>
   )
