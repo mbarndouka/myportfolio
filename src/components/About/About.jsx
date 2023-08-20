@@ -18,7 +18,7 @@ const About = () => {
                 <Info/>
 
                 <p className="about__description">
-                    Meet Mbarndouka Oumarou Marius, a dedicated learner pursuing Data Science at ALX and Software Engineering at the Adventist University of Central Africa. With a coding background and a degree from the University Institute of Technology in Cameroon, Mbarndouka aims to tackle agricultural challenges in Africa using his skills. Beyond coding, he enjoys reading, podcasts, and addressing real-world issues. Experienced in front-end development, he seeks roles in internships, jobs, or entrepreneurship to expand his impact.
+                    Hello, I'm Mbarndouka Oumarou Marius, a determined learner pursuing Data Science and Software Engineering. Armed with a coding background and a degree, I'm poised to tackle African agricultural challenges. My skills span Data Science, Software Engineering, and Front-End Development. What makes me stand out is my holistic understanding of technology and its impact on real-world issues. My contribution simplifies lives by blending tech expertise with practical insights, driving positive change. Let's collaborate for a better tomorrow.
                 </p>
 
                 <a download="" href={CV} className="button button--flex">
